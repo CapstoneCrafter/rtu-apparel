@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .about{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/57/RTU_Seal.png');
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+.icons{
+    margin-left: 26px;
+}
